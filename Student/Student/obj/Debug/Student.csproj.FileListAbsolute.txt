@@ -1,0 +1,5 @@
+c:\users\lenovo lab\documents\visual studio 2015\Projects\Student\Student\bin\Debug\Student.dll
+c:\users\lenovo lab\documents\visual studio 2015\Projects\Student\Student\bin\Debug\Student.pdb
+c:\users\lenovo lab\documents\visual studio 2015\Projects\Student\Student\obj\Debug\Student.dll
+c:\users\lenovo lab\documents\visual studio 2015\Projects\Student\Student\obj\Debug\Student.pdb
+c:\users\lenovo lab\documents\visual studio 2015\Projects\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
